@@ -1,6 +1,6 @@
 Sistema de Gestão de Projetos (SGP)
 Sobre o Projeto
-O Sistema de Gestão de Projetos (SGP) é uma aplicação de desktop desenvolvida como parte das atividades académicas da Universidade do Sul de Santa Catarina (Unisul). O objetivo principal do projeto foi aplicar os conceitos de Engenharia de Software, programação orientada a objetos com Java e gestão de bases de dados relacionais para criar uma solução de software funcional e bem estruturada.
+O Sistema de Gestão de Projetos (SGP) é uma aplicação de desktop desenvolvida como parte das atividades académicas da Universidade Anhembi Morumbi. O objetivo principal do projeto foi aplicar os conceitos de Engenharia de Software, programação orientada a objetos com Java e gestão de bases de dados relacionais para criar uma solução de software funcional e bem estruturada.
 
 A aplicação permite o controlo completo sobre utilizadores, projetos e tarefas, oferecendo diferentes níveis de acesso e relatórios para a tomada de decisões, simulando um ambiente corporativo de gestão.
 
